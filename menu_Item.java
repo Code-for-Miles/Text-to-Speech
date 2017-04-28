@@ -18,7 +18,7 @@ import android.widget.TextView;
     }
     void aboutMe(AlertDialog.Builder builder, TextView aboutMe){
         builder.setTitle("  About Developer");
-        String aboutMulu = "My name is Mulugeta Engdaw. I am a third year college student studying Computer Engineering. I developed" +
+        String aboutMulu = "I am a third year college student studying Computer Engineering. I developed" +
                 " this app with intention of making pronunciation of English words easier for those who are barely learning English." +
                 " Also for those who know English, yet struggle in pronouncing certain words.";
         aboutMe.setText(aboutMulu);
